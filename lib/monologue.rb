@@ -15,5 +15,6 @@ module Monologue
                  :posts_per_page,
                  :google_analytics_id,
                  :layout,
-                 :sidebar
+                 :sidebar,
+                 :site_logo_url
 end
